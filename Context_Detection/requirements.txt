@@ -51,7 +51,7 @@ dask==2.1.0
 data==0.4
 decorator==4.4.0
 defusedxml==0.6.0
-distributed==2.1.0
+distributed==2021.10.0
 Django==2.2.5
 docutils==0.14
 en-core-web-sm==2.1.0
